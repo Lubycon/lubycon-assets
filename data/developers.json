@@ -1,0 +1,98 @@
+[
+  {
+    "name": "문동욱",
+    "githubUserName": "evan-moon",
+    "slackUserId": "U01810LSJ0L",
+    "role": "frontend"
+  },
+  {
+    "name": "진유림",
+    "githubUserName": "milooy",
+    "slackUserId": "U01JUKELXK9",
+    "role": "frontend"
+  },
+  {
+    "name": "송민석",
+    "githubUserName": "s-ong-c",
+    "slackUserId": "U01SJGXQ8N9",
+    "role": "frontend"
+  },
+  {
+    "name": "이정연",
+    "githubUserName": "pa-rang",
+    "slackUserId": "U01SMT5QG5R",
+    "role": "frontend"
+  },
+  {
+    "name": "이지형",
+    "githubUserName": "MiaJLee",
+    "slackUserId": "U01TBAQ9Y64",
+    "role": "frontend"
+  },
+  {
+    "name": "정건우",
+    "githubUserName": "devGW",
+    "slackUserId": "U01STTJ9G84",
+    "role": "frontend"
+  },
+  {
+    "name": "주혜인",
+    "githubUserName": "theJunimo",
+    "slackUserId": "U01STQJLFS8",
+    "role": "frontend"
+  },
+  {
+    "name": "김현준",
+    "githubUserName": "Junkim93",
+    "slackUserId": "U017U0SN3UN",
+    "role": "frontend"
+  },
+  {
+    "name": "김영채",
+    "githubUserName": "yeong-chae",
+    "slackUserId": "U017V1603DH",
+    "role": "backend"
+  },
+  {
+    "name": "김동규",
+    "githubUserName": "danielzepp",
+    "slackUserId": "U0187DJA8AV",
+    "role": "backend"
+  },
+  {
+    "name": "신선영",
+    "githubUserName": "shinsunyoung",
+    "slackUserId": "U01SJK4S5UM",
+    "role": "backend"
+  },
+  {
+    "name": "김상혁",
+    "githubUserName": "DevSang",
+    "slackUserId": "U01SMHYC3M0",
+    "role": "backend"
+  },
+  {
+    "name": "신유진",
+    "githubUserName": "jellyb3ar",
+    "slackUserId": "U01STMFH4NQ",
+    "role": "backend"
+  },
+  {
+    "name": "문성혁",
+    "githubUserName": "roeniss",
+    "slackUserId": "U017L0BHA95",
+    "role": "backend"
+  },
+  {
+    "name": "김무섭",
+    "githubUserName": "MuseopKim",
+    "slackUserId": "U020JSF00QK",
+    "role": "backend"
+  },
+  {
+    "name": "유보람",
+    "githubUserName": "br-yu",
+    "slackUserId": "U01S76FH3JT",
+    "role": "backend"
+  }
+]
